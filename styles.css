@@ -14,11 +14,15 @@ h1 {
   font-style: normal;
 }
 
-nav {background-color: #a8a8a8;}
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: #acf2f7;
+    }
 
 nav a {color: rgb(0, 0, 0);}
 nav {color:rgb(0, 0, 0);}
 
-nav a hover {background-color: #a8a8a8}
+nav a hover {background-color: #acf2f7}
 
-a:hover {color: green}
+a:hover {color: green} 
